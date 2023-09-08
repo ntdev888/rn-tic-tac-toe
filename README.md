@@ -26,3 +26,5 @@ Steps:
 - 'npx expo' to start Expo application server
 - Use the QR code in the EXPO Go application to connect to this application
 - Play tic-tac-toe with a friend
+
+<img src="./img/Android-tic-tac-toe.jpg" alt="photo of app running in android">
