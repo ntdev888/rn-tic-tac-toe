@@ -27,4 +27,4 @@ Steps:
 - Use the QR code in the EXPO Go application to connect to this application
 - Play tic-tac-toe with a friend
 
-<img src="./img/Android-tic-tac-toe.jpg" alt="photo of app running in android">
+<img src="./img/Android-tic-tac-toe.jpg" width="350" height="auto" alt="photo of app running in android">
