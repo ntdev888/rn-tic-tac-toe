@@ -12,8 +12,6 @@ import Gamebox from "./Gamebox";
 
 const screenWidth = Dimensions.get("window").width;
 
-const backgroundImg = require("./img/background.jpg");
-
 export default function App() {
   function buttonPress() {
     Alert.alert("Hello Tauroa Family");
@@ -50,8 +48,11 @@ const styles = StyleSheet.create({
   },
 
   textBox: {
+    fontWeight: "bold",
+    fontSize: 20,
     padding: 12,
     backgroundColor: "#FFFFFF",
+    borderRadius: 10,
   },
 
   appBox: {

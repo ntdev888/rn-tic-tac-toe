@@ -13,3 +13,16 @@ Requirements:
 - react-native
 - VSCODE
 - Caffine
+
+## EXPO Go app running
+
+This application is now fully functional using EXPO Go.
+
+To deploy ensure you have Expo on your machine.
+Steps:
+
+- Clone this Repo
+- 'npm install' for dependancies
+- 'npx expo' to start Expo application server
+- Use the QR code in the EXPO Go application to connect to this application
+- Play tic-tac-toe with a friend
